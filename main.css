@@ -1,0 +1,1 @@
+body,html{height:100%;margin:0}table{border-collapse:collapse;margin:10px;width:auto}td,th{border:2px solid #0f0e0e;padding:10px;text-align:center}.movie-id{width:20%}.movie-title{width:50%}.movie-year{width:20%}.movie-imdb{width:15%}th.sort-asc:after{content:" ▲"}th.sort-desc:after{content:" ▼"}
